@@ -134,8 +134,3 @@ Shift from Cash to Digital – Cash and card payments are being overshadowed by 
 - **Forecasting Trends** – Forecasts (ARIMA) suggest sustained growth till 2025, with recurring seasonal peaks and minor early-year dips.
 - **Cashless Limitation** – Despite UPI’s dominance, a fully cashless India is not yet possible. In rural and underdeveloped areas, where digital infrastructure and literacy remain limited, cash continues to play a vital role.
 - **Final Takeaway**– UPI has revolutionized India’s digital economy, becoming the backbone of cashless transactions, while coexisting with cash in regions where digital reach is still evolving.
- 
-[**Github Link**](https://github.com/lakshita-03/TransactIQ) 
-  
-
-
