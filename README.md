@@ -111,7 +111,7 @@ The dataset for this section has been extracted from the **Reserve Bank of India
 ## 7. Forecasting using Time Series Models (ARIMA)
 
 ### Jupyter File
-<iframe src="notebooks/ARIMA.ipynb" width="100%" height="800px"></iframe>
+<iframe src="(https://github.com/kusheshgangwar/TransactIQ--Forecasting-India-s-Digital-Payments-Journey-with-UPI/blob/main/notebooks/ARIMA.ipynb)" width="100%" height="800px"></iframe>
 
 
 ### Assumptions
